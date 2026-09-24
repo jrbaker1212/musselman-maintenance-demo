@@ -208,7 +208,7 @@ a:focus-visible {
 .hero-media {
   position: absolute;
   inset: 0;
-  background-image: url("https://images.unsplash.com/photo-1607472586893-edb57eea0b4a?auto=format&fit=crop&w=1920&q=80");
+  background-image: url("images/hero.jpg");
   background-size: cover;
   background-position: center 30%;
   transform: scale(1.02);
